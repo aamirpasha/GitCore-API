@@ -81,3 +81,5 @@ The application follows a microservices architecture with the following modules:
 2. **Version Control Service**: Handles commits, branches, and diffs
 3. **User & Access Service**: Manages users, SSH keys, and permissions
 4. **Activity Stream Service**: Tracks user contributions
+
+<!-- Update 1 -->
