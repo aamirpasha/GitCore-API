@@ -83,3 +83,5 @@ The application follows a microservices architecture with the following modules:
 4. **Activity Stream Service**: Tracks user contributions
 
 <!-- Update 1 -->
+
+<!-- Update 2 -->
